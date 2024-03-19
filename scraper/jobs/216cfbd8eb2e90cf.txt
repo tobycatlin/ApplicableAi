@@ -1,0 +1,37 @@
+Full-Stack Developer - Norwich NR2 - Indeed.com 
+HomeCompany reviewsSalary guideSign inSign inEmployers / Post JobStart of main content 
+WhatWhereFind JobsFull-Stack DeveloperArtlistNorwich NR2Full-timeJob detailsHere’s how the job details align with your profile.Job typeFull-time&nbsp;LocationNorwich NR2&nbsp;Full job description 
+Artlist is a leading Creative Technology company - its where the creative arts meet technology. If there’s one thing we all have in common, it’s a love of music and film, which is why we build innovative products to help content creators make amazing videos. 
+We do this by giving them the best music, footage, sound effects, and editing software around. We also revolutionised the industry with a radical new music licensing model that has since become the global standard, offering a subscription-based licence that covers every video project. 
+Artlist is now the go-to platform for over 16M content creators across more than 160 countries. Our users range from beginner social creators to superbrands like Apple, Google, Nike, Coca-Cola, and Netflix. 
+The role 
+We're looking for a Full-Stack Developer to join our amazing UK R&D Team. 
+The stack that you'll be working with is across React/ Node.js/ Typescript and you will support the team developing both front-end and back-end systems. 
+As a Full-Stack Developer at Artlist, you'll further harness your knowledge of software development to help build next generation web applications and take our products to the next level. You’ll be part of a talented team based here in Norwich that is part of a wider team globally. 
+Requirements: 
+Required skills 
+Bachelor's degree in Computer Science, or related field (or equivalent work experience). 
+Demonstrable experience with front-end technologies, including React and TypeScript. 
+Experience with Node.js 
+Experience with RESTful API design and implementation. 
+Familiarity with database systems such as PostgreSQL, MySQL. 
+Interested in working as part of a vibrant and sociable team. 
+A fast learner, able to quickly master concepts, disciplines and methods. 
+The ability to articulate their thoughts and challenges with their peers. 
+Desirable skills 
+Frameworks such as Next.js/NestJS 
+Experience with TDD, BDD 
+Knowledge of domain driven development 
+Familiar with cloud-based platforms (AWS, Azure Devops, Google Cloud etc). 
+Experience with build and deployment tools such as Gitlab pipelines, Jenkins. 
+Experience with Docker and Kubernetes 
+Wake up for this 
+Work alongside and learn from passionate, industry leading developers that are keen to continually develop their skills. 
+Write highly scalable services in order to serve many customers. 
+Design and build distributed systems with event driven architecture. 
+Collaborate with cross-functional teams to design, develop, and implement new features for artists that host their content on Artlist. 
+Take full ownership and accountability of projects. 
+Develop a range of genuinely exciting products in a creative industry. 
+&nbsp;Apply nowsave-icon&nbsp;Report job&nbsp;Full Stack Developer jobs in NorwichJobs at Artlist in NorwichFull Stack Developer salaries in Norwich 
+Hiring LabCareer AdviceBrowse JobsBrowse CompaniesSalariesIndeed EventsWork at IndeedCountriesAboutHelp CentreESG at Indeed© 2024 IndeedAnti-Slavery statement Accessibility at Indeed Privacy Centre and Ad Choices Terms 
+We use cookies to personalise content and ads, analyse traffic and improve our services. We also use essential cookies to inform employers of clicks to their jobs. You acknowledge that your use of Indeed is subject to our Cookie Policy, which we encourage you to review.Cookies Settings Reject All Accept All Cookies

@@ -1,0 +1,37 @@
+Infrastructure Engineer - Cambridge - Indeed.com 
+HomeCompany reviewsSalary guideSign inSign inEmployers / Post JobStart of main content 
+WhatWhereFind JobsInfrastructure EngineerSpeechmaticsCambridgeJobCompanyLocationCambridgeBenefitsPulled from the full job descriptionCompany pensionFull job description 
+Speechmatics is a world-leading expert in speech technology. Our mission has always been to "Understand Every Voice," meaning that we aim to make voice technology inclusive and accessible to everyone in the world, regardless of demographic, age, gender, accent, dialect, or location. This is an ambitious goal, and to achieve it, we're continuously innovating and experimenting, all while providing value to our diverse range of current customers. 
+Speechmatics are seeking an Infrastructure Engineer to tackle technical challenges related to datacenter HPC hardware, Layer 2/3 networking, and Linux OS automation. As part of a team, you'll help design, implement, and enhance the infrastructure and systems supporting our company. You will collaborate with other teams to improve reliability and performance of internal services and machine learnings workloads. 
+Your opportunity: 
+Be an integral part of the team! We're a tight-knit group, and the tech we own is interconnected with many other teams, so you'll have a huge opportunity to positively influence efficiency of our business and overall product delivery. 
+You're pragmatic, and able to balance "doing things right" with "doing things quickly," depending on the context. You can navigate short-term changes in priorities as we work towards longer-term goals. 
+You're passionate about creating high quality solutions and enjoy the exploratory process of improving performance, stability, and maintainability of the tech you work with, no matter where a problem lies. 
+You feel comfortable developing software, and you're interested or experienced in working with some of the technologies we use: Python, Ansible, Docker, Kubernetes, Grafana, Prometheus, Gitlab, developing in a Linux environment. 
+Responsibilities: 
+Build, configure, and deploy new compute, network, storage, and specialist security infrastructure, ensuring correct configuration and up to date with latest patches. 
+Resolve escalations and issues, improve the internal customer experience, and drive initiatives that increase success of other teams' projects. 
+Assisting with migration of VMware infrastructure to Kubernetes. 
+Implement new cost-efficient solutions according to budgets, develop capacity plans to optimise existing and future usage of internal resources. 
+Examine, refine, and develop the existing monitoring and metrics of the company's internal infrastructure. 
+Coordinate comprehensive disaster recovery architecture and operations 
+What we can offer you: 
+Speechmatics is a collective team of ambitious, problem solvers and thought-leaders paving the way for inclusion in speech recognition technology . 
+No matter what stage of your career you're at - from paid internships and first-job opportunities through to management and senior positions - we'll support you with the training and development ️ needed to reach your career aspirations with us. There really is no shortage of opportunities here for you to get involved and collaborate with those around you to deliver your best work . 
+When you become part of the Speechmatics Team we work hard to make sure you do your best work with us , while also having a good time doing it . With our Focus Fridays you get an undisturbed day of focus ‍️, offset with Together Tuesdays when we have our team meetings . 
+We offer incredibly flexible working , regular company lunches, and birthday celebrations. But that's not all. We've spoken to our teams to find out what they want. From Private Medical and Dental for you and your family, through to global working opportunities , a generous holiday allowance and pension/401K matching , we want to make sure our employees and their families are looked after. Every employee will receive a working from home allowance for tech or home office equipment (on top of your choice of laptop/ Mac, screen and accessories of course) ‍! 
+We support people to work wherever they work best. But we also understand the importance of coming together to collaborate, socialise and build relationships. Individuals and teams are free to decide what works for them. 
+Who we are: 
+Speechmatics is the leading expert in Speech Intelligence, and uses AI and Machine Learning to unlock business value in human speech worldwide . We work with an amazing mix of global companies , and our technology can integrate into our customers stack irrespective of their industry or use case – making it the go-to solution to harness useful information from speech. We have recently raised $62 million at Series B and continue to grow positively . 
+Joining us means working with some of the smartest minds around the world , focused on cutting-edge projects and deploying the latest techniques to disrupt the market. We believe in putting people first ; we'll do all we can to help you develop your skills and give you the tools you need to thrive . We support people to work wherever they work best and also understand the importance of coming together to collaborate, socialise and build relationships . 
+This is only the beginning; we're looking for amazing people like you to continue our journey… 
+At Speechmatics, our mission is simple: understanding every voice out there. That's not just about our tech – it's the heart and soul of who we are. 
+We welcome different experiences, viewpoints, and identities. For us, it's not just the right thing to do; it's our catalyst for sparking innovation and creativity. Our teams thrive in an environment that celebrates and supports everyone – no matter their gender, identity or expression, race, disability, age, sexual orientation, religion, belief, marital status, national origin, veteran status, pregnancy, or maternity status. 
+But we don't just open the door to diversity – we actively welcome it. Why? Because we believe every unique voice adds something special to our team, leading us to smarter solutions and a better workplace. 
+So, come as you are and join our Speechling community. We're building a place where every voice not only gets heard but is also respected and valued. 
+For more information on us, please visit our website and follow Speechmatics on our social channels via Twitter, Facebook, LinkedIn, and YouTube. 
+We rely on legitimate interest as a legal basis for processing personal information under the GDPR for purposes of recruitment and applications for employment. 
+#LI-Hybrid 
+You must create an Indeed account before continuing to the company website to applyApply nowsave-iconReport jobInfrastructure Engineer jobs in CambridgeJobs at Speechmatics in CambridgeInfrastructure Engineer salaries in Cambridge 
+Hiring LabCareer AdviceBrowse JobsBrowse CompaniesSalariesIndeed EventsWork at IndeedCountriesAboutHelp CentreESG at Indeed© 2024 IndeedAnti-Slavery statement Accessibility at Indeed Privacy Centre and Ad Choices Terms 
+We use cookies to personalise content and ads, analyse traffic and improve our services. We also use essential cookies to inform employers of clicks to their jobs. You acknowledge that your use of Indeed is subject to our Cookie Policy, which we encourage you to review.Cookies Settings Reject All Accept All Cookies

@@ -1,0 +1,45 @@
+Software / Program Developer - Remote - England - Indeed.com 
+HomeCompany reviewsSalary guideSign inSign inEmployers / Post JobStart of main content 
+WhatWhereFind JobsSoftware / Program Developer - RemoteLorien(part of Impellam Group)23 reviewsEnglandRemoteTemporary contractLorien23 reviewsRead what people are saying about working here.Job detailsHere’s how the job details align with your profile.Job typeTemporary contract&nbsp;LocationEngland&nbsp;Full job description 
+Software / Program Developer - Remote 
+We are urgently seeking an Lead Microsoft Applications Developer help support and deliver a number of solutions to our customers using the Microsoft stack of Technologies. 
+This for our client who are a Global IT Service Provider. This will be on a contract and based remotely. 
+Your role We are looking for a Lead Microsoft Applications developer to help support and deliver a number of solutions to our customers using the Microsoft stack of Technologies. The role will involve working on well-established System Integration projects delivering mission critical Enterprise solutions to our customers. You will be joining an experienced team and helping to deliver key change controls within the account to delivering both innovation and business value. You will have the opportunity to contribute to the next generation cloud ready integration framework which is currently being developed inhouse by the Integration team. The role will provide an excellent environment for learning new technologies and working with skilled resources and growing your career. 
+This role will also include a level of business analysis responsibilities whereby the individual will work closely with the customer to understand their requirements clearly in order to determine how these impact on existing systems with the ability to scope change both from a technical and cost aspect 
+Mandatory: 
+C# 
+.Net 
+Azure 
+Power Platform 
+Data Warehouse 
+Skills required: 
+Experience of developing technology solutions for large, complex business change programmes 
+Experience of working on MS Azure Platform 
+Experience of MS DevOps (VSTS) 
+Experience of setting up a Continuous delivery and Integration pipeline including automated testing and deployment using Azure Devops. 
+Knowledge of Power Apps application development. 
+Knowledge of Power Automate development 
+Azure SQL Server (OLTP). 
+Developing API's using logic apps, azure functions and azure API-management. 
+Knowledge of Azure components including Azure Storage, Azure Key Vault, Logic Apps, Azure Automation, Azure Batch and Azure Service bus. 
+C# and PowerShell 
+Knowledge of using version control systems e.g. Git. 
+Automated Testing using BDD and TDD approach. 
+Provisioning automated secure cloud Infrastructure using tools such as ARM Templates/ Terraform. 
+KNOWLEDGE 
+Understanding of Agile, Scrum and Kanban methodologies. 
+Passion for automation of Infrastructure. Repeatable patterns, pipelines, and security integrations. 
+Government Digital Services framework and service design standards. 
+Microsoft Azure platform and associated infrastructure architecture. 
+Service Oriented Architecture (SOA), Microservices , web services, including JSON and XML. 
+Variety of databases and programming languages, e.g. SQL Server, .NET, C#, Java. 
+Latest information technologies including their pros and cons in the context of large organisations. 
+Integration Architectures and patterns, including knowledge of Enterprise Service Bus. 
+Working knowledge of data warehousing, data lakes, data migration and Big Data. 
+Good secure coding standards such as OWASP. 
+Auditing and monitoring approaches and tools. 
+Worried that you don't meet all the desired criteria exactly? Our client is passionate about Inclusion for All and creating a workplace where everyone can thrive, whatever their personal or professional background. If you're excited about this role but your experience doesn't align exactly with every part of the job description, we encourage you to apply as you may be the right candidate for this role or another role, and our recruitment team can help you see how your skills fit in. 
+Carbon60, Lorien & SRG - The Impellam Group STEM Portfolio are acting as an Employment Business in relation to this vacancy. 
+&nbsp;Apply nowsave-icon&nbsp;Report job&nbsp;Software Engineer jobs in EnglandJobs at Lorien in EnglandSoftware Engineer salaries in England 
+Hiring LabCareer AdviceBrowse JobsBrowse CompaniesSalariesIndeed EventsWork at IndeedCountriesAboutHelp CentreESG at Indeed© 2024 IndeedAnti-Slavery statement Accessibility at Indeed Privacy Centre and Ad Choices Terms 
+We use cookies to personalise content and ads, analyse traffic and improve our services. We also use essential cookies to inform employers of clicks to their jobs. You acknowledge that your use of Indeed is subject to our Cookie Policy, which we encourage you to review.Cookies Settings Reject All Accept All Cookies

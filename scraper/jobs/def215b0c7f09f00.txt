@@ -1,0 +1,21 @@
+Software Developer - Cambridge - Indeed.com 
+HomeCompany reviewsSalary guideSign inSign inEmployers / Post JobStart of main content 
+WhatWhereFind JobsSoftware DeveloperAstex Pharmaceuticals4 reviewsCambridgeHybrid workFixed term contractAstex Pharmaceuticals4 reviewsRead what people are saying about working here.Job detailsHere’s how the job details align with your profile.Job typeFixed term contract&nbsp;LocationCambridgeBenefitsPulled from the full job descriptionTransport linksFull job description 
+Astex Pharmaceuticals is a world leader in innovative drug discovery and development. The company has successfully applied its proprietary Fragment-Based Drug Discovery platform to generate multiple new drug candidates that are progressing in clinical development. Successful collaborations have led to three launched oncology drugs (Kisqali® partnered with Novartis, Balversa® partnered with Janssen and Truqap™ partnered with AstraZeneca). Astex continues to grow and focuses on Neurological Disorders and Oncology. 
+Astex has a strong history in developing web-based applications to support its internal fragment-based drug discovery platform, carrying out cutting edge research in this area. This role will involve developing full-stack web applications for cheminformatics and structure-based design. 
+The Role 
+You will be working in a small team of developers, computational scientists and machine learning experts, collaborating with experimental scientists from across the organisation. You will work closely with users to understand their needs and deliver software to support their research. 
+Our web applications typically use flask (python) and oracle at the back end, with the front end built with react or another JS/TS framework. There are opportunities to work with other technologies such as graph databases (Neo4j), WebGL, instrumentation robotics and machine learning methods. You will support scientists with their emerging project needs and will help maintain and extend our existing code base. 
+Profile and Skills 
+The ideal candidate will be a computer scientist with experience of working in a chemistry- and/or structural-biology-related discipline, or a computational chemist/biologist with an aptitude for software development. 
+Expert knowledge in Python and/or Javascript 
+Ideally, familiarity with relational databases, chemical databases (e.g. ChEMBL/WDI), and scripting using RDKit or similar toolkits 
+Familiarity with git, CI and testing 
+Good team working and communication skills 
+Why Astex 
+We offer excellent training and career development opportunities as well as highly competitive salary and benefits package including hybrid working options to promote a flexible and inclusive work environment. 
+At Astex we embrace diversity and equality of opportunity. We are committed to building an inclusive and diverse Company representing all backgrounds, harnessing industry-leading scientific innovation and behaviours. 
+Astex is situated 2.5 miles from Cambridge City centre on the Cambridge Science Park. The Park has onsite sports facilities and excellent transport links to London. 
+You must create an Indeed account before continuing to the company website to applyApply nowsave-icon&nbsp;Report jobSoftware Engineer jobs in CambridgeJobs at Astex Pharmaceuticals in CambridgeSoftware Engineer salaries in Cambridge 
+Hiring LabCareer AdviceBrowse JobsBrowse CompaniesSalariesIndeed EventsWork at IndeedCountriesAboutHelp CentreESG at Indeed© 2024 IndeedAnti-Slavery statement Accessibility at Indeed Privacy Centre and Ad Choices Terms 
+We use cookies to personalise content and ads, analyse traffic and improve our services. We also use essential cookies to inform employers of clicks to their jobs. You acknowledge that your use of Indeed is subject to our Cookie Policy, which we encourage you to review.Cookies Settings Reject All Accept All Cookies

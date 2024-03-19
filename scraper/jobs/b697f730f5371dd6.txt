@@ -1,0 +1,42 @@
+Back-end Developer - Cambridge - Indeed.com 
+HomeCompany reviewsSalary guideSign inSign inEmployers / Post JobStart of main content 
+WhatWhereFind JobsBack-end DeveloperEnvision Pharma Group13 reviewsCambridgeHybrid workPermanent, Full-timeEnvision Pharma Group13 reviewsRead what people are saying about working here.Job detailsHere’s how the job details align with your profile.Job typePermanentFull-time&nbsp;LocationCambridgeFull job description 
+Passionate about developing and implementing cutting-edge solutions that can impact the lives of millions of people? Interested in establishing yourself in the hi-tech world of AI applied to healthcare? 
+About Us 
+OKRA, proudly part of Envision Pharma Group, is an artificial intelligence company for healthcare. We deliver predictions, suggestions, and explanations to empower life sciences executives and operational teams in complex decision-making to drive the right drug to the right patient with humanized and understandable AI outputs. We are fostering a new generation of Artificial Intelligence (AI) solutions implemented at top Pharma companies. 
+Our mission is to the get the right treatment to the right patient at the right time, by building the world's most trustworthy artificial intelligence engine. The OKRA platform is live and has already generated millions of actionable insights and predictions. 
+AI for us is not a data science project. We deploy, monitor, and manage the analytics and we ensure that we operationalize AI products to drive health and patient outcomes. We embrace agile, iteration, and co-creation. 
+Being part of a collaborative team means there's no limit to what you can achieve. 
+What is the purpose of the role? 
+OKRA.ai is rapidly growing, and to make sure we continue our innovative work in developing state-of-the-art AI solutions in life sciences, we are looking for a new back-end developer colleague. 
+What will you be doing? 
+As a Python back-end developer OKRA.ai, you will mainly be working on the backends and accompanying databases that power our products. You will also be working with some of our data pipelines that transform raw inputs into understandable insights. You will: 
+Design, develop, test, and deploy backend services and applications using Python. 
+Collaborate with front-end developers to integrate user-facing elements with server-side logic. 
+Optimize and scale existing backend systems to ensure high performance and reliability. 
+Participate in the entire software development life cycle, from concept and design to testing and deployment. 
+Troubleshoot and debug issues and provide timely solutions to technical problems. 
+Stay current with industry trends and emerging technologies to continuously improve our development processes. 
+Do you have what we are looking for? 
+Proficiency in modern Python programming, preferably with Python 3.9+. 
+Solid understanding of web application architecture and RESTful API design principles. 
+Experience with Python web frameworks such as Flask, FastAPI or Django. 
+Knowledge of software development best practices such as unit testing, version control, and CI/CD. 
+Experience with database systems, including SQL and NoSQL databases. 
+Familiarity with version control systems, such as Git. 
+Strong problem-solving and analytical skills. 
+Excellent communication and teamwork abilities. 
+Ability to work in a fast-paced and collaborative environment. 
+Capacity to come in our Cambridge office 3 days a week 
+Bonus points if you have 
+Experience with local development setup using Docker or Vagrant. 
+Familiarity with cloud platforms (e.g., AWS, Azure, or Google Cloud). 
+Proficiency in JavaScript or TypeScript. 
+Magic happens when people care deeply about what they do! 
+We're on a mission to use Artificial Intelligence to transform healthcare as we know it. 
+We're pioneers. Everyone here is passionate about their impact on our products and teams and ultimately, the world. This is how we became leaders in what we do. 
+If you're looking for fascinating and complex projects and can thrive on change, you've found the right place. 
+Join us in bringing AI to life. If you have the experience highlighted above, we would love to hear from you. 
+You must create an Indeed account before continuing to the company website to applyApply nowsave-icon&nbsp;Report jobBack End Developer jobs in CambridgeJobs at Envision Pharma Group in CambridgeBack End Developer salaries in Cambridge 
+Hiring LabCareer AdviceBrowse JobsBrowse CompaniesSalariesIndeed EventsWork at IndeedCountriesAboutHelp CentreESG at Indeed© 2024 IndeedAnti-Slavery statement Accessibility at Indeed Privacy Centre and Ad Choices Terms 
+We use cookies to personalise content and ads, analyse traffic and improve our services. We also use essential cookies to inform employers of clicks to their jobs. You acknowledge that your use of Indeed is subject to our Cookie Policy, which we encourage you to review.Cookies Settings Reject All Accept All Cookies

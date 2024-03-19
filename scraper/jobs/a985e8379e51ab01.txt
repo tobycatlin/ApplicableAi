@@ -1,0 +1,56 @@
+Release Engineer - Cambridge CB4 - Indeed.com 
+HomeCompany reviewsSalary guideSign inSign inEmployers / Post JobStart of main content 
+WhatWhereFind JobsRelease EngineerHiring PeopleCambridge CB4Hybrid work£25,000 - £37,000 a year - 
+Permanent, Full-timeJob detailsHere’s how the job details align with your profile.Pay£25,000 - £37,000 a yearJob typePermanentFull-time&nbsp;LocationCambridge CB4BenefitsPulled from the full job descriptionCompany pensionPrivate medical insuranceFull job description 
+Salary: £25k - 37k per year + Benefits, depending on exper 
+Reference: ARC123 
+Release Engineer 
+£25k-37k + Benefits 
+Cambridge or Hybrid/Remote 
+About the Company 
+We are a fast growing and successful GovTech company. We are dynamic and forward thinking, with great ambition. You will have the chance to share your knowledge and make your presence felt. With our people at the core of everything we do, we don’t want people to ‘fit in’, diversity and difference are essential to creativity. We want people to thrive in our open and collaborative environment and be an integral part of our close knit team. 
+So, if you are looking for something more than ‘just a job’, you are in the right place. We have big company benefits, including Private Medical Insurance, Life Assurance and Pension, as well as Volunteering Days, Health & Wellbeing benefits and social activities. 
+If this all appeals and you have the ambition to match ours, then read on! 
+The Job Role 
+As a Release Engineer, you will work closely with the wider team, developing good working relationships with customers who have already gone live with our systems. You'll be responsible for overseeing product delivery, monitoring client testing and production environments and delivery from the cloud packaging platform. This involves managing expectations and risks of the account manager, client and implementation teams. 
+Our Software Support Team is a small, friendly & diverse team, focussed on delivering Salesforce.com administration, declarative & custom development and customer support to a varying and evolving group of customers across the public sector, across both local and central government. Our release Engineers play a pivotal role in ensuring that development and integration environments are effectively managed, updates are deployed through a reliable and efficient process, and that product is delivered to the Implementation team to a high quality in a frictionless manner. 
+Is this You? 
+Responsibilities: 
+Environment Administration: 
+Setup environments according to customer requirements 
+Manage the relationships between Development, Testing, Staging and Production environments, within Salesforce and integrated technologies (e.g. GIS, Document Management, Payments) 
+Execute commission tests to validate the deployed product and any related integrations 
+Proactively identify opportunities for automation and develop suitable scripts / routines / code to deploy additional functions or data, using tools such as CumulusCI or ANT 
+Work with Senior Test Engineers, client Domain Administrators and project managers to propose the best possible configurations of tools, upgrades and communities for each authority 
+Implementation Deployments: 
+Use tools like GearSet, GIT, DataLoader, ChangeSets and Salesforce Environment Hub to deploy code and product configurations 
+Plan deployments carefully, uncovering hidden complexities and dependencies between tasks 
+Act as a custodian / guardian of product quality and work with the Developer(s)/Project Manager(s) to ensure that appropriate testing and checking is performed at the various stages by the company and customers 
+Analyse and troubleshoot deployment issues in a timely manner 
+Product Upgrades and Patches: 
+Perform upgrades and deploy patches to a customer’s existing environments and products whilst ensuring users disruption is minimised 
+Complete any necessary data migrations / updates to ensure integrity is retained when data model changes are required 
+Maintain a good level of communication with customers throughout the process 
+Continuous Improvement: 
+Maintain good deployment notes and records as well as suggesting appropriate improvements 
+Identify and act upon (e.g. through software development / scripting work) opportunities to automate repetitive manual tasks to focus your efforts on high value stakeholder engagement 
+Requirements: 
+Essential: 
+Significant experience working with software or databases, finding and diagnosing issues (for example in Testing or DevOps) 
+Strong sense of logic and process with meticulous attention to detail 
+Ability to explain technical steps and/or issues to customers clearly and agree pragmatic routes forward 
+Excellent problem solving skills within complex and interconnected technical environments 
+Experience deploying software and software configurations within a PaaS / SaaS environment 
+Experience of administering a full range of client-specific instances / environments from Development to Live / Production 
+Commercial experience of software or database deployment within an enterprise environment 
+Ability to work well with others and by self and be responsible for managing a backlog of deployment tasks efficiently 
+Software implementation and (customer) configuration experience 
+Desired: 
+Knowledge of local authority services would be beneficial 
+Software development experience 
+Salesforce Experience 
+How to Apply 
+If interested, please click on the link provided and you will be redirected to the company's website to complete your application. #high 
+You must create an Indeed account before continuing to the company website to applyApply nowsave-icon&nbsp;Report jobRelease Engineer jobs in CambridgeJobs at Hiring People in CambridgeRelease Engineer salaries in Cambridge 
+Hiring LabCareer AdviceBrowse JobsBrowse CompaniesSalariesIndeed EventsWork at IndeedCountriesAboutHelp CentreESG at Indeed© 2024 IndeedAnti-Slavery statement Accessibility at Indeed Privacy Centre and Ad Choices Terms 
+We use cookies to personalise content and ads, analyse traffic and improve our services. We also use essential cookies to inform employers of clicks to their jobs. You acknowledge that your use of Indeed is subject to our Cookie Policy, which we encourage you to review.Cookies Settings Reject All Accept All Cookies

@@ -1,0 +1,52 @@
+Full Stack .Net Developer - Norwich - Indeed.com 
+HomeCompany reviewsSalary guideSign inSign inEmployers / Post JobStart of main content 
+WhatWhereFind JobsFull Stack .Net DeveloperiCat Solutions LtdNorwichFull-timeJob detailsHere’s how the job details align with your profile.Job typeFull-timeShift and scheduleFlexitimeMonday to Friday&nbsp;LocationNorwich&nbsp;BenefitsPulled from the full job descriptionAdditional leaveBereavement leaveFlexitimeSabbaticalWork from home&nbsp;Full job descriptionAbout us 
+iCat Solutions Ltd is a leading healthcare technology company focused on transforming the way medical facilities manage their patient care and medical workflows. We leverage cutting-edge technologies to provide innovative and secure solutions, which improve patient outcomes and streamline healthcare processes. 
+We are looking for an experienced Backend Developer with expertise in the medical field to join our team. The ideal candidate will have a strong background in healthcare technology, including HL7 and DICOM protocol communications, and extensive knowledge of modern software development practices and technologies. 
+Responsibilities: 
+Design, develop, and maintain scalable and efficient backend and frontend services for our healthcare platform 
+Implement data exchange and communication protocols, such as HL7 and DICOM, to support seamless integration with various medical systems and devices 
+Collaborate with cross-functional teams to define, design, and ship new features 
+Ensure the performance, quality, and responsiveness of applications through continuous testing and monitoring 
+Participate in code reviews and provide constructive feedback to peers 
+Assist with DevOps tasks, including deployment, monitoring, and maintenance of our applications and infrastructure 
+Contribute to the continuous improvement of our development processes and practices 
+Requirements: 
+Bachelor's degree in Computer Science, Engineering, or a related field 
+3+ years of experience in backend software development 
+Strong understanding of healthcare technology, including HL7 and DICOM protocol communications 
+Proficient in .NET, NodeJS, and relational databases 
+Familiarity CI/CD tools 
+Experience with Git and version control best practices 
+Excellent problem-solving, analytical, and communication skills 
+Ability to work independently and as part of a team 
+Love Apple products!! 
+Nice-to-haves: 
+Experience with containerization technologies, such as Docker and Kubernetes 
+Familiarity with cloud platforms, such as AWS 
+Understanding of medical terminology and regulatory requirements (e.g., HIPAA) 
+Previous experience working in a healthcare or medical-related organization 
+What We Offer: 
+Competitive salary and benefits package 
+Flexible work arrangements 
+Opportunity to work with cutting-edge technologies and contribute to meaningful projects in the healthcare industry 
+Professional development and growth opportunities 
+A collaborative, supportive, and inclusive work environment 
+To Apply: 
+Please submit your resume and cover letter, detailing your experience and qualifications, to info@icat.solutions. We look forward to reviewing your application and discussing how you can contribute to the success of iCat Solutions. 
+Job Type: Full-time 
+Benefits: 
+Additional leave 
+Bereavement leave 
+Flexitime 
+Sabbatical 
+Work from home 
+Schedule: 
+Monday to Friday 
+Ability to commute/relocate: 
+Norwich: reliably commute or plan to relocate before starting work (required) 
+Experience: 
+.NET: 3 years (required) 
+Work Location: In person&nbsp;Apply nowsave-icon&nbsp;Report job&nbsp;Full Stack Developer jobs in NorwichJobs at iCat Solutions in NorwichFull Stack Developer salaries in Norwich 
+Hiring LabCareer AdviceBrowse JobsBrowse CompaniesSalariesIndeed EventsWork at IndeedCountriesAboutHelp CentreESG at Indeed© 2024 IndeedAnti-Slavery statement Accessibility at Indeed Privacy Centre and Ad Choices Terms 
+We use cookies to personalise content and ads, analyse traffic and improve our services. We also use essential cookies to inform employers of clicks to their jobs. You acknowledge that your use of Indeed is subject to our Cookie Policy, which we encourage you to review.Cookies Settings Reject All Accept All Cookies

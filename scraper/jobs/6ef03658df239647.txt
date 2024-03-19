@@ -1,0 +1,27 @@
+Test Automation Engineer - Cambridge - Indeed.com 
+HomeCompany reviewsSalary guideSign inSign inEmployers / Post JobStart of main content 
+WhatWhereFind JobsTest Automation EngineerSoCodeCambridge£30,000 - £35,000 a year - 
+PermanentJob detailsHere’s how the job details align with your profile.Pay£30,000 - £35,000 a yearJob typePermanent&nbsp;LocationCambridge&nbsp;Full job description 
+Job details 
+Posted 13 March 2024 
+Salary£30k - 35k per year + Benefits 
+LocationCambridge 
+Job type Permanent 
+DisciplineSoftware Testing / Quality Assurance 
+ReferenceQAENGA 
+Are you a QA Engineer with 2 years' experience working on a commercial web application? Have you got experience of developing and expanding automation regression packs to cut down manual regression time? 
+Do you have experience of API and performance testing? 
+If this sounds like you, and a salary of up to £35,000 and remote working (within the UK) appeals to you, then let's chat! Worth noting - they do meet ONCE per quarter in Cambridge. 
+So, what about the company? 
+In short, they help ensure that patients get the medical help they need by reduce waiting times and providing outpatient appointments online. They're growing again and as a result want to hire another QA engineer to their team. We have placed the majority of the QA team into this company and everyone has said positive things about their journey with the business so far! 
+You will be joining a small team of manual and automation testers. 
+Expand automation regression packs to cut down manual regression time as well as carrying out Functional, API and Perfomance testing 
+Cross-browser testing, increasing coverage and efficiency 
+Adding tests to manual regression suite, ensuring it's consistent with latest system capabilities and can be executed efficiently with minimum supervision 
+Hands-on experience of migrating manual tests to an automated framework 
+Developing test cases written in Gherkin format for acceptance criteria of stories 
+Participation in stand-ups and and sprint planning, helping estimate QA timescales 
+Experience with JavaScript/TypeScriptand Selenium/Cypress/equivalent 
+&nbsp;You must create an Indeed account before continuing to the company website to applyApply nowsave-icon&nbsp;Report job&nbsp;Software Test Engineer jobs in CambridgeJobs at SoCode in CambridgeSoftware Test Engineer salaries in Cambridge 
+Hiring LabCareer AdviceBrowse JobsBrowse CompaniesSalariesIndeed EventsWork at IndeedCountriesAboutHelp CentreESG at Indeed© 2024 IndeedAnti-Slavery statement Accessibility at Indeed Privacy Centre and Ad Choices Terms 
+We use cookies to personalise content and ads, analyse traffic and improve our services. We also use essential cookies to inform employers of clicks to their jobs. You acknowledge that your use of Indeed is subject to our Cookie Policy, which we encourage you to review.Cookies Settings Reject All Accept All Cookies

@@ -1,0 +1,44 @@
+Test Automation Engineer - Cambridge CB1 - Indeed.com 
+HomeCompany reviewsSalary guideSign inSign inEmployers / Post JobStart of main content 
+WhatWhereFind JobsTest Automation EngineerAnsys147 reviews62 Clifton Road, Cambridge CB1Ansys147 reviewsRead what people are saying about working here.JobCompanyLocation62 Clifton Road, Cambridge CB1Full job description 
+Requisition #: 13992 
+When visionary companies need to know how their world-changing ideas will perform, they close the gap between design and reality with Ansys simulation. For more than 50 years, Ansys software has enabled innovators across industries to push boundaries by using the predictive power of simulation. From sustainable transportation to advanced semiconductors, from satellite systems to life-saving medical devices, the next great leaps in human advancement will be powered by Ansys. 
+Take a leap of certainty … with Ansys. 
+Summary / Role Purpose 
+The Senior R&D Verification Engineer is responsible for the automated testing activities of Motor-CAD, a multiphysics simulation tool utilizing complex FEA and analytical methods. In this role, the Senior R&D Verification Engineer will use advanced engineering and software skills to help the team tackle complex issues and ensure that product requirements and quality standards are met. 
+As a graduate with a good degree in computer science or a related field and some commercial software experience, you will join a growing and dynamic team to support the development of class-leading software. You will be a self-starter, responsible for managing your own tasks and working collaboratively. This is an excellent opportunity to bring your software skills to make a big impact in electric motor design and sustainable clean energy products. 
+Key Duties and Responsibilities 
+Design, implement and maintain a new automated build & test process Create test plans and contribute to testing initiatives, responsible for coverage analysis and testing metrics in specific areas, participate in defect management Collaborate with others to analyse product features and develop automated test cases to maximise coverage Apply technical and professional knowledge in specialized areas and investigate complex issues in both product functionality and processes/deployments Maintain tools, infrastructure, build and testing environments for product creation team Work independently with minimal supervision 
+Minimum Education/Certification Requirements and Experience 
+BSc in Computer Science, Engineering, or related field (2:1 or above) with 5 years’ experience, MS with 3 years’ experience Strong computing skills with demonstrated knowledge of software development processes and technology, including automated testing and version control Passion for crafting robust and efficient automated build and testing processes that will support developers in creating world-class software 
+Preferred Qualifications and Skills 
+Commercial experience with CI/CD tools e.g. Azure DevOps Experience with Python and shell scripting Understanding/experience of the unique testing challenges posed by simulation software and how standard testing practices can be adapted to suit real-life engineering needs Experience of commercial software development Ability to learn quickly and to collaborate with others in a geographically distributed team Strong aptitude in Physics and Mathematics Knowledge of software development tools, compilers, and packaging software 
+#li-remote 
+At Ansys, we know that changing the world takes vision, skill, and each other. We fuel new ideas, build relationships, and help each other realize our greatest potential in the knowledge that every day is an opportunity to observe, teach, inspire, and be inspired. Together as One Ansys, we are powering innovation that drives human advancement. 
+Our Commitments: 
+Amaze with innovative products and solutions 
+Make our customers incredibly successful 
+Act with integrity 
+Ensure employees thrive and shareholders prosper 
+Our Values: 
+Adaptability: Be open, welcome what’s next 
+Courage: Be courageous, move forward passionately 
+Generosity: Be generous, share, listen, serve 
+Authenticity: Be you, make us stronger 
+Our Actions: 
+We commit to audacious goals 
+We work seamlessly as a team 
+We demonstrate mastery 
+We deliver outstanding results 
+OUR ONE ANSYS CULTURE HAS INCLUSION AT ITS CORE 
+We believe diverse thinking leads to better outcomes. We are committed to creating and nurturing a workplace that fuels this by welcoming people, no matter their background, identity, or experience, to a workplace where they are valued and where diversity, inclusion, equity, and belonging thrive. 
+TAKE A LEAP OF CERTAINTY IN YOUR CAREER AT ANSYS 
+At Ansys, you will find yourself among the sharpest minds and most visionary leaders across the globe. Collectively we strive to change the world with innovative technology and transformational solutions. With a prestigious reputation in working with well-known, world-class companies, standards at Ansys are high – met by those willing to rise to the occasion and meet those challenges head on. Our team is passionate about pushing the limits of world-class simulation technology, empowering our customers to turn their design concepts into successful, innovative products faster and at a lower cost. 
+At Ansys, it’s about the learning, the discovery, and the collaboration. It’s about the “what’s next” as much as the “mission accomplished.” And it’s about the melding of disciplined intellect with strategic direction and results that have, can, and do impact real people in real ways. All this is forged within a working environment built on respect, autonomy, and ethics. 
+CREATING A PLACE WE’RE PROUD TO BE Ansys is an S&P 500 company and a member of the NASDAQ-100. We are proud to have been recognized for the following more recent awards, although our list goes on: America’s Most Loved Workplaces, Gold Stevie Award Winner, America’s Most Responsible Companies, Fast Company World Changing Ideas, Great Place to Work Certified (China, Greece, France, India, Japan, Korea, Spain, Sweden, Taiwan, U.K.). 
+For more information, please visit us at www.ansys.com 
+Ansys is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other protected characteristics. 
+Ansys does not accept unsolicited referrals for vacancies, and any unsolicited referral will become the property of Ansys. Upon hire, no fee will be owed to the agency, person, or entity. 
+You must create an Indeed account before continuing to the company website to applyApply nowsave-iconReport jobSoftware Test Engineer jobs in CambridgeJobs at Ansys in CambridgeSoftware Test Engineer salaries in Cambridge 
+Hiring LabCareer AdviceBrowse JobsBrowse CompaniesSalariesIndeed EventsWork at IndeedCountriesAboutHelp CentreESG at Indeed© 2024 IndeedAnti-Slavery statement Accessibility at Indeed Privacy Centre and Ad Choices Terms 
+We use cookies to personalise content and ads, analyse traffic and improve our services. We also use essential cookies to inform employers of clicks to their jobs. You acknowledge that your use of Indeed is subject to our Cookie Policy, which we encourage you to review.Cookies Settings Reject All Accept All Cookies

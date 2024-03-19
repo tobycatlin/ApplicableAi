@@ -1,0 +1,39 @@
+Data Analyst - Cambridge CB4 - Indeed.com 
+HomeCompany reviewsSalary guideSign inSign inEmployers / Post JobStart of main content 
+WhatWhereFind JobsData AnalystHiring PeopleCambridge CB4Remote£35,000 a year - 
+Permanent, Full-timeJob detailsHere’s how the job details align with your profile.Pay£35,000 a yearJob typePermanentFull-time&nbsp;LocationCambridge CB4BenefitsPulled from the full job descriptionCompany pensionPrivate medical insuranceFull job description 
+Salary: £35k per year + Benefits, depending on experience 
+Reference: ARC124 
+Data Analyst 
+£ Competitive + Benefits 
+Cambridge or Home based with relevant travel 
+About Arcus 
+Arcus is a fast growing and successful GovTech company. We are dynamic and forward thinking, with great ambition. At Arcus, you will have the chance to share your knowledge and make your presence felt. With our people at the core of everything we do, we don’t want people to ‘fit in’, diversity and difference are essential to creativity. We want people to thrive in our open and collaborative environment and be an integral part of our close knit team. 
+So, if you are looking for something more than ‘just a job’, you are in the right place. We have big company benefits, including Private Medical Insurance, Life Assurance and Pension, as well as Volunteering Days, Health & Wellbeing benefits and social activities. 
+If this all appeals and you have the ambition to match ours, then read on! 
+The Job Role 
+This is a technical role, working within the Implementation Serviced Department as a specialist resource where you will be managing the migration and deployment of customer data and configuration as well as setting up scheduled data export/import routines. 
+Responsibilities: 
+Helping customers understand their legacy and target data models and recommending actions to assist in effective migration 
+Analysis of customer data and production of data quality reports outlining data quality issues and recommending “quick wins” for fix and highlighting issues 
+Accurate Data mapping between legacy and new schemas 
+Test and final load of data sets into customer environments in such a way as to give confidence in completeness and accuracy, minimising business impact 
+Working directly with customers to support them in getting the most out of Salesforce.com and feeding back to product teams where data model adjustments would be beneficial 
+Managing your own time whilst working within the project constraints 
+Taking part in project planning exercises and ensuring data concerns are given full consideration 
+Setup of inbound/outbound data integrations and assisting with any related support tickets 
+Preparation of data mapping templates, data containers and ongoing development of supporting documentation 
+Is this You? 
+Requirements: 
+A deep interest in, and enjoyment of working with data is essential for this role 
+Experience using your choice of tooling (MS Excel, MS Access, SQL, Jitterbit, Alteryx, Open Refine, Informatica, Talend) to extract, transform and load data between systems 
+You should expect to be working across several projects simultaneously and be comfortable working to customer deadlines 
+Ability to quickly adapt to new situations, different business practices and challenges of working in the public sector 
+A proven ability to plan, organise, prioritise, manage and track numerous concurrent activities to successful outcomes 
+Business Intelligence & reporting experience - Both the process of developing and displaying performance indicators and tooling e.g. Tableau, Silk, Qlik or the BI tools within AWS such as QuickSight (desirable) 
+Experience with data modelling - A working knowledge (or beyond) of data modelling techniques would be a distinct advantage. For example being able to interpret, write and (to the right audience) explain an ERD would help you hit the ground running in this role 
+How to Apply 
+If interested, please click on the link provided and you will be redirected to our website to complete your application. #high 
+You must create an Indeed account before continuing to the company website to applyApply nowsave-icon&nbsp;Report jobData Analyst jobs in CambridgeJobs at Hiring People in CambridgeData Analyst salaries in Cambridge 
+Hiring LabCareer AdviceBrowse JobsBrowse CompaniesSalariesIndeed EventsWork at IndeedCountriesAboutHelp CentreESG at Indeed© 2024 IndeedAnti-Slavery statement Accessibility at Indeed Privacy Centre and Ad Choices Terms 
+We use cookies to personalise content and ads, analyse traffic and improve our services. We also use essential cookies to inform employers of clicks to their jobs. You acknowledge that your use of Indeed is subject to our Cookie Policy, which we encourage you to review.Cookies Settings Reject All Accept All Cookies

@@ -1,0 +1,48 @@
+Mid Level Full Stack .Net Developer (Retail) - United Kingdom - Indeed.com 
+HomeCompany reviewsSalary guideSign inSign inEmployers / Post JobStart of main content 
+WhatWhereFind JobsMid Level Full Stack .Net Developer (Retail)Cox Automotive(part of Cox Enterprises)1,002 reviewsUnited KingdomFull-timeCox Automotive1,002 reviewsRead what people are saying about working here.Job detailsHere’s how the job details align with your profile.Job typeFull-time&nbsp;LocationUnited Kingdom&nbsp;Full job description 
+Team: 
+eVA is a market leading valuation, appraisal and car buying solution, designed to connect the online and in-store consumer journeys, providing an efficient and hassle-free buying experience. Consumers can self-serve an accurate valuation for their part-ex and build the valuation into the deal themselves. 
+Role: 
+As Full Stack .Net Developer, you will be responsible for delivering as part of an agile team software development solutions for Cox Automotive Retail Services division, with focus on the delivery of customer centric, scalable and maintainable solutions on time. 
+You must have strong full stack experience of the Microsoft .NET stack, Javascript Frameworks and be open to potentially open source solutions. 
+Candidates must demonstrate a passion for best practices, coding standards, for new technologies and methodologies, but also be a technically agnostic and comfortable at times in a non-technical setting. 
+As a Full Stack Developer, you will actively and enthusiastically engage in the wider Cox Automotive group being open to consuming and sharing of knowledge, whilst throughout maintaining a strong customer and CARS focus. 
+The role will have regular interactions with account managers and people outside of the IT, and as such excellent communication skills, both written and spoken are required. 
+Delivery of Quality is a must and you will pride yourself not only on your code but also testing including Dev testing, Automated Unit tests (Front & Back End) and Automated Functional Selenium tests. 
+Develop and deliver a wide range of high profile, accessible and standards compliant web projects. 
+Work with colleagues and technical resources to deliver technical solutions to meet business requirements using agreed tools and technologies. 
+Develop solutions in-line with in-house standards and practices. 
+Carry out unit, systems and integration testing during the code development. 
+Produce Technical Documentation for relevant software modules being delivered. 
+Contribute to the ongoing development of best practices, identification of suitable new tools and system and service improvements. 
+Liaise as appropriate with internal customers. 
+Participate in internal agile meetings where appropriate. 
+Liaise as appropriate with suppliers and partners to integrate 3rd party solutions. 
+Must be adaptable and flexible to meet client deadlines. 
+Provide 2nd / 3rd line support and out of hours assistance with support issues where required. 
+Review and approve technical designs and developer code. 
+Strive to learn and grow, looking to consume technical knowledge from Domain experts within Cox Automotive Retail Services and in the wider technical community. 
+Technically support and coach other Developers within the development team where you are seen as a domain expert. 
+Contribute and attend knowledge shares within the Cox Automotive Retail Services 
+Skills and Experience: 
+Loves technology period. 
+Experienced in leading or taking a senior role in web software development projects. 
+Passion for best practices and methodologies including one of teh following TDD, BDD, CI, CD, ODD and Composition. 
+C#.Net, JavaScript plus React, CSS, HTML5, MVC, RESTful WebAPIs 
+Experience of Relational Databses & using SQL 
+Obsessed about code quality and automated test 
+Experience of the full Software Development Lifecycle 
+Positive 
+Solid Communication Skills 
+Agile Experience 
+Customer Focussed and loves to lead teams to successful delivery 
+Loves to mentor and grow more junior developers 
+STRICTLY NO AGENCIES PLEASE 
+We work with a carefully selected set of recruitment agencies and we're not looking to add to our PSL. 
+We do not accept unsolicited agency CV's sent to the recruitment team or directly to the hiring manager. We will not be responsible for any fees related to unsolicited CV's 
+#INDTR 
+Cox Automotive is the world’s largest automotive service organisation. We provide dependable solutions that improve performance and profitability throughout the vehicle lifecycle to manufacturers, fleets, and retailers. Our businesses are organised around our customers’ core needs across vehicle solutions, mobility, remarketing, funding, and retail. 
+&nbsp;You must create an Indeed account before continuing to the company website to applyApply nowsave-icon&nbsp;Report job&nbsp;Full Stack Developer jobs in United KingdomJobs at Cox Automotive in United KingdomFull Stack Developer salaries in United Kingdom 
+Hiring LabCareer AdviceBrowse JobsBrowse CompaniesSalariesIndeed EventsWork at IndeedCountriesAboutHelp CentreESG at Indeed© 2024 IndeedAnti-Slavery statement Accessibility at Indeed Privacy Centre and Ad Choices Terms 
+We use cookies to personalise content and ads, analyse traffic and improve our services. We also use essential cookies to inform employers of clicks to their jobs. You acknowledge that your use of Indeed is subject to our Cookie Policy, which we encourage you to review.Cookies Settings Reject All Accept All Cookies

@@ -1,0 +1,38 @@
+Senior JavaScript Developer - England - Indeed.com 
+HomeCompany reviewsSalary guideSign inSign inEmployers / Post JobStart of main content 
+WhatWhereFind JobsSenior JavaScript DeveloperLorien(part of Impellam Group)23 reviewsEnglandRemote£65,000 - £75,000 a year - 
+Full-timeLorien23 reviewsRead what people are saying about working here.Job detailsHere’s how the job details align with your profile.Pay£65,000 - £75,000 a yearJob typeFull-time&nbsp;LocationEngland&nbsp;Full job description 
+Senior JavaScript Developer - Fully remote (£65k-£75k) 
+This is an excellent opportunity to work on an already very successful SAAS product that helps support the health, safety and wellbeing of students and school staff across the UK. 
+This fully-remote role can be filled from anywhere within the UK, is paying between £65k and £75k per annum. 
+THE COMPANY: 
+A SAAS company has delivered systems to help schools, businesses and venues comply with regulations, allowing them to go paperless whilst improving the safety of students, staff and parents whilst on their premises. 
+Since their launch in 2015, they have grown to be a market leading company with a reputation for producing tried and tested products that are used by over 100,000 users across 2500 sites. Their success is greatly attributed to their drive to encourage staff to contribute their own ideas whilst working hard to deliver updates, new features and support to their users. As a business co-founded by Software Engineers, you can be sure that their systems are of top quality. 
+THE ROLE: 
+Working within a small, cohesive software engineering team, you will be leading initiatives to stabilise and optimise the existing system, participate in the standardisation of the databases, and work on new feature development such as stock control modules, SSO and the overhauling of the analysis and insights functionality. Following the continued expansion of the client base here in the UK, they will also be launching into new countries in 2025 which will bring with it a whole new set of projects and challenges. 
+There will also be business-related development projects including CRM integration, supporting sales and customer success teams and maintaining integrations with APIs such as Airtable, Groupcall and Wonde. 
+DUTIES: 
+Lead and contribute to the end-to-end development of SaaS applications using JavaScript (Node.js, React or similar frameworks) 
+Design and develop APIs with NoSQL and GraphQL, using best practices and with a keen eye on security. 
+Collaborate with cross-functional teams, including stakeholders, product owners, designers, and other engineers, to deliver features and enhancements. 
+Design and implement scalable and maintainable software architecture. - 
+Participate in architectural discussions and decisions 
+Uphold high coding standards, conduct code reviews, and ensure best practices are followed. 
+Work with our DevOps and QA engineers to ensure the speedy and reliable delivery of features and enhancements. 
+Performance Optimization - Identify and address performance bottlenecks. - Optimize code and queries for speed and efficiency. 
+Propose and implement improvements to development processes and tools. 
+Investigate and troubleshoot issues 
+REQUIREMENTS: 
+Proven experience as a Senior Software Engineer with a focus on JavaScript-based technologies. 
+Strong proficiency in JavaScript, including Node.js and front-end frameworks like React or similar. 
+Experience with RESTful API design and development. 
+Experience with NoSQL and GraphQL. 
+Solid understanding of software architecture and design patterns. 
+Familiarity with cloud platforms (e.g., AWS, Azure) and containerization (e.g., Docker). - 
+Please note that this role is only open to candidates currently residing in the UK that have the necessary right to work. 
+Interested? Contact Philip at Lorien Global 
+IND_PC1 
+Carbon60, Lorien & SRG - The Impellam Group STEM Portfolio are acting as an Employment Business in relation to this vacancy. 
+&nbsp;Apply nowsave-icon&nbsp;Report job&nbsp;Javascript Developer jobs in EnglandJobs at Lorien in EnglandJavascript Developer salaries in England 
+Hiring LabCareer AdviceBrowse JobsBrowse CompaniesSalariesIndeed EventsWork at IndeedCountriesAboutHelp CentreESG at Indeed© 2024 IndeedAnti-Slavery statement Accessibility at Indeed Privacy Centre and Ad Choices Terms 
+We use cookies to personalise content and ads, analyse traffic and improve our services. We also use essential cookies to inform employers of clicks to their jobs. You acknowledge that your use of Indeed is subject to our Cookie Policy, which we encourage you to review.Cookies Settings Reject All Accept All Cookies

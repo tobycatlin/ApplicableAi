@@ -1,0 +1,48 @@
+Software Engineer - Scala - Cambridge CB2 - Indeed.com 
+HomeCompany reviewsSalary guideSign inSign inEmployers / Post JobStart of main content 
+WhatWhereFind JobsSoftware Engineer - ScalaFIS2,751 reviewsCambridge CB2Full-timeFIS2,751 reviewsRead what people are saying about working here.Job detailsHere’s how the job details align with your profile.Job typeFull-time&nbsp;LocationCambridge CB2Full job description 
+Position Type : Full time 
+Type Of Hire : Experienced (relevant combo of work and education) 
+Education Desired : Bachelor of Computer Engineering 
+Are you ready to unleash your full potential? We’re looking for people who are passionate about payments to chart Worldpay’s path to being the largest and most-loved payments company in the world. 
+About the team 
+Access Worldpay is a talented, creative group working together to bring the next generation payment gateway. Our clients range from small/medium businesses and start-ups to some of the largest tech and digital firms. We use global collaboration to support global clients. 
+Our group is a place where learning and growing are core parts of the journey. We care deeply about things like immutability, automation, test driven development and agile ways of working. More information on our principles is available in https://worldpay.github.io/gateway-tribe-principles and about our APIs in https://developer.worldpay.com/. You can also find more details about our approach and culture in https://developer.worldpay.com/newsroom. 
+What you will be doing 
+You will collaborate with your cross-functional squad to design, develop, operate and improve the products our customers enjoy using. You will work with the wider engineering team to bring solutions to challenges that require cross squad collaboration. As a member of the squad you will also have deep understanding of the product and industry you are building for. You will also have the opportunity to be a teacher for less experienced engineers. 
+Main Duties and Responsibilities: 
+Collaboratively develop the features and engineering capabilities for the products your squad own. We aim to employ automation for everything 
+Collaborate in all stages of development from requirement discussions with the Product Owner to the deployment of the feature in the cloud 
+Join the on-call rota to support the highly available products developed by the squad 
+Provide your squad with the tools to enable data driven decision making 
+Supporting and mentoring more junior engineers within the squad 
+Collaborate with your fellow engineers from other squads to make decisions around technologies, patterns and approaches to adopt 
+What you bring: 
+Experience designing, implementing and operating large scale and highly available microservices deployed to the cloud 
+Experience building microservices with Docker, Scala and Reactive Programming. 
+Experience with Test Driven Development 
+An engineering skillset that is focused on quality and a test first philosophy, regardless of the activity 
+An agile mindset where you will drive both your squad and the wider tribe towards better ways of working 
+An inquisitive personality that is always looking for constant improvement opportunity 
+Added bonus if you have: 
+Experience with Play Framework and Akka. 
+Experience with Kafka or any other messaging oriented middleware 
+Experience with reactive programming 
+Exposure to the Payments industry domain (especially Cards and other payment schemes) 
+Exposure to PCI-DSS 
+What we offer you 
+A competitive salary and benefits 
+A variety of career development tools, resources and opportunities 
+The chance to work on some of the most challenging, relevant issues in the payment industry 
+Time to support charities and give back in your community 
+#LI-AB1 
+#LI-Hybrid 
+#LI-Worldpay 
+Privacy Statement 
+FIS is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. For specific information on how FIS protects personal information online, please see the Online Privacy Notice. 
+Sourcing Model 
+Recruitment at FIS works primarily on a direct sourcing model; a relatively small portion of our hiring is through recruitment agencies. FIS does not accept resumes from recruitment agencies which are not on the preferred supplier list and is not responsible for any related fees for resumes submitted to job postings, our employees, or any other part of our company. 
+#pridepass 
+You must create an Indeed account before continuing to the company website to applyApply nowsave-icon&nbsp;Report jobSoftware Engineer jobs in CambridgeJobs at FIS in CambridgeSoftware Engineer salaries in Cambridge 
+Hiring LabCareer AdviceBrowse JobsBrowse CompaniesSalariesIndeed EventsWork at IndeedCountriesAboutHelp CentreESG at Indeed© 2024 IndeedAnti-Slavery statement Accessibility at Indeed Privacy Centre and Ad Choices Terms 
+We use cookies to personalise content and ads, analyse traffic and improve our services. We also use essential cookies to inform employers of clicks to their jobs. You acknowledge that your use of Indeed is subject to our Cookie Policy, which we encourage you to review.Cookies Settings Reject All Accept All Cookies
