@@ -1,0 +1,129 @@
+generator client {
+  provider      = "prisma-client-js"
+  binaryTargets = ["native", "darwin-arm64", "windows", "linux-musl", "linux-musl-arm64-openssl-1.1.x"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DB_URL")
+}
+
+generator jsonSchema {
+  provider = "prisma-json-schema-generator"
+}
+
+enum Role {
+  USER
+  ADMIN
+  RANGE
+}
+
+enum DatasetStatus {
+  DRAFT
+  PENDING_UPLOAD
+  PENDING_REVIEW
+  CONFIRMED
+}
+
+model Account {
+  account_id         String    @id @default(cuid())
+  userId             Int
+  providerType       String
+  providerId         String
+  providerAccountId  String
+  refreshToken       String?
+  accessToken        String?
+  accessTokenExpires DateTime?
+  createdAt          DateTime  @default(now())
+  updatedAt          DateTime  @updatedAt
+  user               User      @relation(fields: [userId], references: [user_id])
+
+  @@unique([providerId, providerAccountId])
+}
+
+model Session {
+  session_id   String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       Int
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [user_id], onDelete: Cascade)
+  accessToken  String   @unique
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model User {
+  user_id   Int @id @default(autoincrement())
+  name      String?
+  email     String?    @unique
+  verified  Boolean    @default(true)
+  password  String?
+  role      Role       @default(USER)
+  image     String?
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+  accounts  Account[]
+  sessions  Session[]
+  datasets  Datasets[]
+  runs      Runs[]
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+}
+
+model AuditLog {
+  audit_log_id Int      @id @default(autoincrement())
+  createdAt    DateTime @default(now())
+  log          Json?
+  user_id      Int?
+  user_ip      String?
+  type         String?
+}
+
+model DataTemplates {
+  datatemplate_id Int      @id @default(autoincrement())
+  createdAt       DateTime @default(now())
+  name            String
+  description     String?
+  template        Json?
+
+  Datasets Datasets?
+}
+
+model Datasets {
+  dataset_id   Int            @id @default(autoincrement())
+  name         String
+  description  String?
+  hash         String
+  status       DatasetStatus  @default(DRAFT)
+  createdAt    DateTime       @default(now())
+  updatedAt    DateTime       @updatedAt
+  users        User[]
+  runs         Runs[]
+  dataTemplate DataTemplates? @relation(fields: [template_id], references: [datatemplate_id])
+  template_id  Int?           @unique
+}
+
+model Settings {
+  setting_id Int   @id @default(autoincrement())
+  setting    Json?
+}
+
+model Runs {
+  run_id      Int      @id @default(autoincrement())
+  name        String
+  description String?
+  startDate   DateTime
+  endDate     DateTime
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  user        User     @relation(fields: [user_id], references: [user_id])
+  dataset     Datasets @relation(fields: [dataset_id], references: [dataset_id])
+  user_id     Int
+  dataset_id  Int
+}

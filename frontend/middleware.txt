@@ -1,0 +1,24 @@
+// export { default } from "next-auth/middleware";
+import { NextRequest, NextResponse } from "next/server";
+
+import { getToken } from "next-auth/jwt";
+
+// export const config = { matcher: ["/((?!auth).*"] };
+export const config = {
+  matcher:
+    "/((?!_next/image|imgs|_next/static|favicon|api/auth|api/public|api/healthcheck|api/export|api/passwordreset|auth|passwordreset).*)",
+};
+export default async function middleware(req: NextRequest) {
+  const token = await getToken({ req, secret: process.env.NEXTAUTH_SECRET });
+  const path = req.nextUrl.pathname;
+
+  // if (publicRoutes.test(path)) {
+  //   return NextResponse.next();
+  // }
+  const publicRoutes = new RegExp("/(public|auth|images)/.*");
+  if (token || publicRoutes.test(path)) {
+    return NextResponse.next();
+  } else {
+    return NextResponse.redirect(new URL("/auth/signin", req.url));
+  }
+}

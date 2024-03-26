@@ -1,0 +1,155 @@
+version: "3"
+services:
+  traefik:
+    container_name: solve_traefik
+    image: "traefik"
+    tty: true
+    command:
+      - "--log.level=ERROR"
+      - "--api.insecure=true"
+      - "--providers.docker=true"
+      - "--providers.docker.exposedbydefault=false"
+    ports:
+      - "80:80"
+      - "443:443"
+      - "8081:8080"
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock:ro"
+      - "./deployment/traefik/certs:/certs:ro"
+      - "./deployment/traefik/traefik.yml:/traefik.yml:ro"
+      - "./deployment/traefik/dynamic.yml:/dynamic.yml:ro"
+
+  postgres:
+    container_name: solve_postgres
+    image: postgres:9.6-alpine
+    user: postgres
+    tty: true
+    environment:
+      - POSTGRES_DB=solve
+      - POSTGRES_PASSWORD=localdb
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    expose:
+      - "8080"
+      - "5432"
+    ports:
+      - "5432:5432"
+      - "8080:8080"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready"]
+      interval: 3s
+      timeout: 3s
+      retries: 5
+
+  solvency-api:
+    container_name: solvency-api
+    tty: true
+    build:
+      context: ./solvency-api
+      dockerfile: Dockerfile
+      # target: local
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.plumber.tls=true"
+      - "traefik.http.routers.plumber.rule=Host(`api.local.solve.com`)"
+      - "traefik.http.routers.plumber.entrypoints=http,https"
+      - "traefik.http.routers.plumber.service=service_console"
+      - "traefik.http.services.service_console.loadbalancer.server.port=8000"
+
+    restart: "no"
+    stop_grace_period: 0.5s
+    links:
+      - "postgres:db"
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+    expose:
+      - "8000"
+    ports:
+      - "8000:8000"
+
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  app:
+    container_name: solve_app
+    tty: true
+    build:
+      context: ./app
+      dockerfile: Dockerfile
+      # target: local
+      # run built nextjs app
+      # target: deps
+    env_file:
+      - ./app/.env.local.sample
+      # runs built version of NextJs
+      # target: production
+
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.app.entrypoints=http,https"
+      - "traefik.http.routers.app.rule=(Host(`app.local.solve.com`))"
+      - "traefik.http.routers.app.tls=true"
+      - "traefik.http.routers.app.service=app"
+      - "traefik.http.services.app.loadbalancer.server.port=3000"
+    expose:
+      - "3000"
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=development
+    volumes:
+      - ./app:/app
+
+    restart: unless-stopped
+    # healthcheck:
+    #   test: ["CMD", "curl", "-f", "http://localhost:3000/api/healthcheck"]
+    #   interval: 10s
+    #   timeout: 5s
+    #   retries: 5
+
+  minio:
+    container_name: solve_minio
+    tty: true
+    image: docker.io/bitnami/minio:latest
+    expose:
+      - "9000"
+      - "9001"
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+
+    volumes:
+      - "minio_data:/data"
+    environment:
+      - MINIO_ROOT_USER=tobyc
+      - MINIO_ROOT_PASSWORD=wootwoot
+      - MINIO_DEFAULT_BUCKETS=solve
+      # - MINIO_BROWSER_REDIRECT_URL=https://files.local.solve.com
+      # - MINIO_SERVER_URL=https://files.local.solve.com
+
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.minio.tls=true"
+      - "traefik.http.routers.minio.rule=Host(`files.local.solve.com`)"
+      - "traefik.http.routers.minio.entrypoints=http,https"
+      - "traefik.http.routers.minio.service=service_console"
+      # - "traefik.http.services.service_console.loadbalancer.server.port=9000"
+      - "traefik.http.services.service_console.loadbalancer.server.port=9001"
+
+networks:
+  default:
+    name: docker
+    driver: bridge
+
+  # minionetwork:
+  #   driver: bridge
+
+volumes:
+  minio_data:
+    driver: local
+  postgres_data:

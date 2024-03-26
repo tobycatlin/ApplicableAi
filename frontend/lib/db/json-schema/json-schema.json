@@ -1,0 +1,401 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "definitions": {
+    "Account": {
+      "type": "object",
+      "properties": {
+        "account_id": {
+          "type": "string"
+        },
+        "providerType": {
+          "type": "string"
+        },
+        "providerId": {
+          "type": "string"
+        },
+        "providerAccountId": {
+          "type": "string"
+        },
+        "refreshToken": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "accessToken": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "accessTokenExpires": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "user": {
+          "$ref": "#/definitions/User"
+        }
+      }
+    },
+    "Session": {
+      "type": "object",
+      "properties": {
+        "session_id": {
+          "type": "string"
+        },
+        "sessionToken": {
+          "type": "string"
+        },
+        "expires": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "user": {
+          "$ref": "#/definitions/User"
+        },
+        "accessToken": {
+          "type": "string"
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time"
+        }
+      }
+    },
+    "User": {
+      "type": "object",
+      "properties": {
+        "user_id": {
+          "type": "integer"
+        },
+        "name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "email": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "verified": {
+          "type": "boolean",
+          "default": true
+        },
+        "password": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "role": {
+          "type": "string",
+          "default": "USER",
+          "enum": [
+            "USER",
+            "ADMIN",
+            "RANGE"
+          ]
+        },
+        "image": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "accounts": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Account"
+          }
+        },
+        "sessions": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Session"
+          }
+        },
+        "datasets": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Datasets"
+          }
+        },
+        "runs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Runs"
+          }
+        }
+      }
+    },
+    "VerificationToken": {
+      "type": "object",
+      "properties": {
+        "identifier": {
+          "type": "string"
+        },
+        "token": {
+          "type": "string"
+        },
+        "expires": {
+          "type": "string",
+          "format": "date-time"
+        }
+      }
+    },
+    "AuditLog": {
+      "type": "object",
+      "properties": {
+        "audit_log_id": {
+          "type": "integer"
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "log": {
+          "type": [
+            "number",
+            "string",
+            "boolean",
+            "object",
+            "array",
+            "null"
+          ]
+        },
+        "user_id": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "user_ip": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "type": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "DataTemplates": {
+      "type": "object",
+      "properties": {
+        "datatemplate_id": {
+          "type": "integer"
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "name": {
+          "type": "string"
+        },
+        "description": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "template": {
+          "type": [
+            "number",
+            "string",
+            "boolean",
+            "object",
+            "array",
+            "null"
+          ]
+        },
+        "Datasets": {
+          "anyOf": [
+            {
+              "$ref": "#/definitions/Datasets"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      }
+    },
+    "Datasets": {
+      "type": "object",
+      "properties": {
+        "dataset_id": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "description": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "hash": {
+          "type": "string"
+        },
+        "status": {
+          "type": "string",
+          "default": "DRAFT",
+          "enum": [
+            "DRAFT",
+            "PENDING_UPLOAD",
+            "PENDING_REVIEW",
+            "CONFIRMED"
+          ]
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "users": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/User"
+          }
+        },
+        "runs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Runs"
+          }
+        },
+        "dataTemplate": {
+          "anyOf": [
+            {
+              "$ref": "#/definitions/DataTemplates"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      }
+    },
+    "Settings": {
+      "type": "object",
+      "properties": {
+        "setting_id": {
+          "type": "integer"
+        },
+        "setting": {
+          "type": [
+            "number",
+            "string",
+            "boolean",
+            "object",
+            "array",
+            "null"
+          ]
+        }
+      }
+    },
+    "Runs": {
+      "type": "object",
+      "properties": {
+        "run_id": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "description": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "startDate": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "endDate": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "user": {
+          "$ref": "#/definitions/User"
+        },
+        "dataset": {
+          "$ref": "#/definitions/Datasets"
+        }
+      }
+    }
+  },
+  "type": "object",
+  "properties": {
+    "account": {
+      "$ref": "#/definitions/Account"
+    },
+    "session": {
+      "$ref": "#/definitions/Session"
+    },
+    "user": {
+      "$ref": "#/definitions/User"
+    },
+    "verificationToken": {
+      "$ref": "#/definitions/VerificationToken"
+    },
+    "auditLog": {
+      "$ref": "#/definitions/AuditLog"
+    },
+    "dataTemplates": {
+      "$ref": "#/definitions/DataTemplates"
+    },
+    "datasets": {
+      "$ref": "#/definitions/Datasets"
+    },
+    "settings": {
+      "$ref": "#/definitions/Settings"
+    },
+    "runs": {
+      "$ref": "#/definitions/Runs"
+    }
+  }
+}

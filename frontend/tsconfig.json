@@ -1,13 +1,12 @@
 {
   "compilerOptions": {
-    "paths": {
-      "@utils": ["./utils/*"],
-      "@lib": ["./lib/*"]
-    },
+    "target": "es2022",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
-    "strict": false,
+    "strict": true,
+    "noImplicitAny": false,
+    "forceConsistentCasingInFileNames": true,
     "noEmit": true,
     "incremental": true,
     "esModuleInterop": true,
@@ -16,12 +15,18 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
-    "plugins": [
-      {
-        "name": "next"
-      }
-    ]
+    "baseUrl": ".",
+    "paths": {
+      "@components/*": ["./components/*"],
+      "@generic/*": ["./components/generic/*"],
+      "@icons/*": ["./components/icons/*"],
+      "@lib/*": ["./lib/*"],
+      "@theme/*": ["./lib/theme/*"],
+      "@utils/*": ["./lib/utils/*"],
+      "@hooks/*": ["./lib/hooks/*"],
+      "@mockapi/*": ["./lib/__fake-api__/*"]
+    }
   },
-  "include": ["next-env.d.ts", ".next/types/**/*.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.js", "**/*.tsx"],
   "exclude": ["node_modules"]
 }

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "15e200fb",
+    "email": "user1@betin.com",
+    "name": "User One",
+    "role": "USER"
+  },
+  {
+    "id": "29290fc1",
+    "email": "user2@betin.com",
+    "name": "User Two",
+    "role": "USER"
+  },
+  {
+    "id": "48e2d579",
+    "email": "user3@betin.com",
+    "name": "User Three",
+    "role": "USER"
+  }
+]
