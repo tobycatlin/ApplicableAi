@@ -40,8 +40,8 @@ const nextConfig = {
   output: "standalone",
   serverRuntimeConfig: {},
   publicRuntimeConfig: {
-    app_title: "Solve",
-    logo: "/images/Solve.svg",
+    app_title: "Applicable.Ai",
+    logo: "/images/Logo.svg",
   },
   eslint: {
     ignoreDuringBuilds: true,

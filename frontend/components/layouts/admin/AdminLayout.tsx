@@ -44,42 +44,18 @@ const sidebarSections = [
         icon: <AdminPanelSettingsIcon fontSize="small" />,
       },
       {
-        title: "Runs",
-        path: "/runs",
+        title: "CV Builder",
+        path: "/cv",
         icon: <AdminPanelSettingsIcon fontSize="small" />,
       },
       {
-        title: "Datasets",
-        path: "/datasets",
-        icon: <AdminPanelSettingsIcon fontSize="small" />,
-      },
-      {
-        title: "Data Templates",
-        path: "/datatemplates",
+        title: "Jobs",
+        path: "/jobs",
         icon: <AdminPanelSettingsIcon fontSize="small" />,
       },
     ],
   },
-  {
-    title: "Logs",
-    items: [
-      // {
-      //   title: "Log Search",
-      //   icon: <SearchIcon fontSize="small" />,
-      //   path: "/logs/search",
-      // },
-      // {
-      //   title: "Logins",
-      //   icon: <LockIcon fontSize="small" />,
-      //   path: "/logs/logins",
-      // },
-      {
-        title: "Audit Log",
-        icon: <CashIcon fontSize="small" />,
-        path: "/audit_log",
-      },
-    ],
-  },
+
   {
     title: "Settings",
     items: [
